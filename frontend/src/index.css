@@ -1,0 +1,9 @@
+/* Importer la police de caractères depuis Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
+body {
+  margin: 0;
+  font-family: 'Roboto', sans-serif;
+  background-color: #F0F2F6; /* Couleur de fond de votre app Streamlit */
+  color: #333333;
+}

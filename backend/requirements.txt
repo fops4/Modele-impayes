@@ -1,0 +1,8 @@
+# /flask_api_impayes/requirements.txt
+Flask
+pandas
+numpy
+joblib
+scikit-learn
+groq
+flask-cors
